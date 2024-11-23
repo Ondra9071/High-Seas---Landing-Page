@@ -18,7 +18,7 @@ A modern, responsive landing page built with **Tailwind CSS**. This landing page
 ## Installation
 To run this project, simply clone this repo and open / host index.html.
    ```bash
-   git clone https://github.com/your-username/landing-page.git
+   git clone https://github.com/Ondra9071/HighSeas-Landing-Page.git
    ```
 ## Customization
 To make the page match your branding, you can change the following:
