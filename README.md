@@ -13,7 +13,7 @@ A modern, responsive landing page built with **Tailwind CSS**. This landing page
 - **Form Section**: Simple, yet elegant form for user engagement.
 
 ## Preview
-![Landing Page Preview](https://i.imgur.com/JiiIOoe.png)  
+![Landing Page Preview](https://ondrejpacovsky.cz/demo/highseas/landing-page/preview.jpg)  
 
 ## Installation
 To run this project, simply clone this repo and open / host index.html.
